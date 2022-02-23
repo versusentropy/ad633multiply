@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ad633muliply-rescue)(type Legacy)(uri ${KIPRJMOD}/ad633muliply-rescue.lib)(options "")(descr ""))
+)
